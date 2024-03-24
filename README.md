@@ -1,1 +1,1 @@
-Currently working with C++, Python,  and Juypter Notebook. More to come. 
+Currently working with Java and Machine Learning in Juypter Notebook. More to come. 
